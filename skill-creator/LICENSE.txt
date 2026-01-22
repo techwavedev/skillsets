@@ -1,3 +1,15 @@
+skill-creator Component
+=======================
+
+Original work Copyright 2024-2025 Anthropic, PBC
+Source: https://github.com/anthropics/skills/tree/main/skills/skill-creator
+
+Modifications Copyright 2026 Elton Machado
+- Adapted for the Skillsets framework architecture  
+- Added update_catalog.py for automated documentation
+- Modified template patterns for 3-Layer Architecture
+
+Licensed under the Apache License, Version 2.0
 
                                  Apache License
                            Version 2.0, January 2004

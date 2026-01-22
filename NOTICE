@@ -14,13 +14,27 @@ you must:
 2. Include the following attribution in documentation or credits:
 
    "AI Agent Skills Framework by Elton Machado"
-   https://github.com/eltonmachado/skillsets
+   https://github.com/techwavedev/skillsets
 
 3. Keep the copyright notice in the LICENSE file intact
 
 ================================================================================
 
 # THIRD-PARTY COMPONENTS
+
+## skill-creator Component
+
+Original work Copyright 2024-2025 Anthropic, PBC
+Licensed under the Apache License, Version 2.0
+Source: https://github.com/anthropics/skills/tree/main/skills/skill-creator
+
+Modifications by Elton Machado (2026):
+
+- Adapted for the Skillsets framework architecture
+- Added update_catalog.py for automated documentation
+- Modified template patterns for 3-Layer Architecture
+
+## Other Integrations
 
 This project may integrate with:
 

@@ -112,7 +112,7 @@ Contributions are welcome! Please ensure you:
 
 <div align="center">
 
-**[📚 Skills Catalog](skills/SKILLS_CATALOG.md)** • **[🐛 Report Issue](https://github.com/eltonmachado/skillsets/issues)** • **[💡 Request Feature](https://github.com/eltonmachado/skillsets/issues)**
+**[📚 Skills Catalog](skills/SKILLS_CATALOG.md)** • **[🐛 Report Issue](https://github.com/techwavedev/skillsets/issues)** • **[💡 Request Feature](https://github.com/techwavedev/skillsets/issues)**
 
 Made with ❤️ by Elton Machado
 
